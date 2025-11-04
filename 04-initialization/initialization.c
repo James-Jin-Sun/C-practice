@@ -4,7 +4,7 @@ int main() {
     var =4;
     int var1=5, var2;
     var2=var1;
-    printf("var:%d\n", var);
+    printf("var:%d\n", var);  // d is for decimal integer
     printf("var1:%d\n", var1);
     printf("var2:%d", var2);
     return 0;
