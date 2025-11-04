@@ -13,4 +13,4 @@ int increment2()
 {
     count1 += 1;
     return count1;
-}
+} 
